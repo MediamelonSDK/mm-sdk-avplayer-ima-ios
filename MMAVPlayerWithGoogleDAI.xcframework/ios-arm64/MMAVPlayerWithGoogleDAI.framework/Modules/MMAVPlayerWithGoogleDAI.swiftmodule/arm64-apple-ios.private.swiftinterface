@@ -21,6 +21,7 @@ import os
   @objc public static func initializeAssetForPlayer(assetInfo aInfo: MMAVPlayerWithGoogleDAI.MMAssetInformation, registrationInformation pInfo: MMAVPlayerWithGoogleDAI.MMRegistrationInformation?, player aPlayer: AVFoundation.AVPlayer?, isLive: Swift.Bool)
   @objc public static func initializeAssetForPlayer(assetInfo aInfo: MMAVPlayerWithGoogleDAI.MMAssetInformation, registrationInformation pInfo: MMAVPlayerWithGoogleDAI.MMRegistrationInformation?, player aPlayer: AVFoundation.AVPlayer?)
   public static func changeAssetForPlayer(assetInfo aInfo: MMAVPlayerWithGoogleDAI.MMAssetInformation, player aPlayer: AVFoundation.AVPlayer?)
+  public static func updateAssetInformation(assetInfo aInfo: MMAVPlayerWithGoogleDAI.MMAssetInformation)
   @objc public static func cleanUp()
   public static func updateSubscriber(subscriberId: Swift.String!, subscriberType: Swift.String!, subscriberMetadata: Swift.String!)
   public func reportCustomMetadata(key: Swift.String!, value: Swift.String!)

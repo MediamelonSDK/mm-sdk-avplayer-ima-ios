@@ -22,47 +22,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Yuyog9QUA7HOnHXnMC2cwCCoMtg=
+		k3Q/pfTXDdf+kyzDGPzahgTJdf0=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		HmbDgtM7nAi80lTe0CJK76/TeHc=
+		DyliTYY85+bFGKfX7/7pp6pV08Y=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CDpgM158pbN4G/XFQAroa8xBu3A=
+		lEmWJnwB3mGxpeujA9O+om8PycA=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		95J7ecImeZPxmg2y37Nl1RBJww8=
+		dnoajk7ROVv6ohe/mrAJVlmDMWw=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CDpgM158pbN4G/XFQAroa8xBu3A=
+		lEmWJnwB3mGxpeujA9O+om8PycA=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VcpEpIf8TmaW0WjxuyL6mr04CHY=
+		F2rSSM/PUdoRdLyM3VX1kgwK/n0=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ecvp5VJGFXAcK+Ft24nxTNXr0Z0=
+		fJWwZ7rozKkbiQ2bKXxAcgWIWd0=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		7jXcFCMLkuhwd/gkrXIPpLCkHl4=
+		n52nPU0pTYnMmLn72JLWM/f3evk=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		U9HEWmQLVlSUUJ/7xtTFE5iPGpM=
+		06DHiKfebhOjna4A4X5e3asAMww=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		7jXcFCMLkuhwd/gkrXIPpLCkHl4=
+		n52nPU0pTYnMmLn72JLWM/f3evk=
 		</data>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5S/faXKVTqI0gQYiwwxNedLh+90=
+		ZuLHMRjQAK4gF0g+ZP9aDt+usD8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,70 +107,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			50fxh7EXAn44ImYl+Nhs2vhfTBar37vT9zv4LfQ476A=
+			sznQeaS9wGP62dTYa1t+SV37qcLko5wu0bogvrBJdQs=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NKhtiyRsgD35cBDkQZGgO995PCVaigGNeoFyumKiy5M=
+			dFUXs4KRuVAJt3GaJdUnmk00mx+Bk64p5b98DgGngos=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+k10opGVIlScgygu3ehXaSilA6wcJekMtY2ld4nFF5M=
+			qpv3FvktXVcNSSshpT0mBN4Q6GkN3dKqJ5gaZ2WZMQc=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NKhtiyRsgD35cBDkQZGgO995PCVaigGNeoFyumKiy5M=
+			dFUXs4KRuVAJt3GaJdUnmk00mx+Bk64p5b98DgGngos=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V+n6bbT9QotXu9YWJORfxLbs2VtzjJmReRFB+W9ee4M=
+			LkxAYERfIE0VmuAIWOYPYX7ft+K8AF+K0/6cEBoGHXA=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I3jwp+lwER3zDL1YwQKxat/5N1DD8k3PwJM8tIzniSI=
+			ZVgaHLgiAcLh0XiFTb3V6C+9huoJtH/jZuN9amcBT6Q=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tkgqsxNvVB+sZS2vKdlc/aDVdFbmdyfBi1FtLDyFK1Q=
+			Peowi7Esesi15RcDMapNzFT+WslsZk+x64bRjiH8A9g=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yaHPeu8ev6S2MD4Mnvn2shYC4XcQr57dzHFVHZiYMk8=
+			u1qtZgxrFw+QzXeYWzAGJrHlMbc9zhDq9Lk1mQGCNBI=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tkgqsxNvVB+sZS2vKdlc/aDVdFbmdyfBi1FtLDyFK1Q=
+			Peowi7Esesi15RcDMapNzFT+WslsZk+x64bRjiH8A9g=
 			</data>
 		</dict>
 		<key>Modules/MMAVPlayerWithGoogleDAI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WFAJH9bb/3uvtbV3NzYbbAXr4tsIcrPEjbhQzd5ioXs=
+			nuXIK+3eCiF937A0NgomEDmxQqeQIHPwf/SkxIpKwN8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
